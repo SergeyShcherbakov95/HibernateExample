@@ -1,0 +1,55 @@
+2015-12-12 15:41:05 INFO  UserDaoImpl:17 - start to add user -User{id=null, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:41:05 INFO  Version:37 - HHH000412: Hibernate Core {5.0.5.Final}
+2015-12-12 15:41:05 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2015-12-12 15:41:05 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2015-12-12 15:41:05 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2015-12-12 15:41:06 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2015-12-12 15:41:06 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2015-12-12 15:41:06 INFO  connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/SimpleWebApplication]
+2015-12-12 15:41:06 INFO  connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+2015-12-12 15:41:06 INFO  connections:141 - HHH10001003: Autocommit mode: false
+2015-12-12 15:41:06 INFO  DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2015-12-12 15:41:06 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-12-12 15:41:07 INFO  UserDaoImpl:27 - finish to add user -User{id=17, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:41:07 INFO  connections:235 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/SimpleWebApplication]
+2015-12-12 15:53:33 INFO  UserDaoImpl:17 - start adding user -User{id=null, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:53:34 INFO  Version:37 - HHH000412: Hibernate Core {5.0.5.Final}
+2015-12-12 15:53:34 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2015-12-12 15:53:34 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2015-12-12 15:53:34 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2015-12-12 15:53:34 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2015-12-12 15:53:34 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2015-12-12 15:53:34 INFO  connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/SimpleWebApplication]
+2015-12-12 15:53:34 INFO  connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+2015-12-12 15:53:34 INFO  connections:141 - HHH10001003: Autocommit mode: false
+2015-12-12 15:53:34 INFO  DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2015-12-12 15:53:34 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-12-12 15:53:35 INFO  UserDaoImpl:27 - finish adding user -User{id=18, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:53:35 INFO  UserDaoImpl:32 - start getting user with id =1
+2015-12-12 15:53:35 INFO  UserDaoImpl:46 - finish getting user with id =1. User - User{id=1, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:53:35 INFO  UserDaoImpl:32 - start getting user with id =2
+2015-12-12 15:53:35 INFO  UserDaoImpl:46 - finish getting user with id =2. User - User{id=2, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:53:35 INFO  UserDaoImpl:52 - start deleting user with id =5
+2015-12-12 15:53:35 INFO  UserDaoImpl:58 - User with id = 5 does noot exist
+2015-12-12 15:53:35 INFO  UserDaoImpl:66 - finish deleting user with id =5
+2015-12-12 15:53:35 INFO  connections:235 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/SimpleWebApplication]
+2015-12-12 15:56:33 INFO  UserDaoImpl:17 - start adding user -User{id=null, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:56:33 INFO  Version:37 - HHH000412: Hibernate Core {5.0.5.Final}
+2015-12-12 15:56:33 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2015-12-12 15:56:33 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2015-12-12 15:56:33 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2015-12-12 15:56:33 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2015-12-12 15:56:34 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2015-12-12 15:56:34 INFO  connections:127 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/SimpleWebApplication]
+2015-12-12 15:56:34 INFO  connections:136 - HHH10001001: Connection properties: {user=root, password=****}
+2015-12-12 15:56:34 INFO  connections:141 - HHH10001003: Autocommit mode: false
+2015-12-12 15:56:34 INFO  DriverManagerConnectionProviderImpl:39 - HHH000115: Hibernate connection pool size: 1 (min=1)
+2015-12-12 15:56:34 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2015-12-12 15:56:35 INFO  UserDaoImpl:27 - finish adding user -User{id=19, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:56:35 INFO  UserDaoImpl:32 - start getting user with id =1
+2015-12-12 15:56:35 INFO  UserDaoImpl:46 - finish getting user with id =1. User - User{id=1, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:56:35 INFO  UserDaoImpl:32 - start getting user with id =2
+2015-12-12 15:56:35 INFO  UserDaoImpl:46 - finish getting user with id =2. User - User{id=2, name=Sergey, age=20, email=Sergey.shcherbakov95@gmail.com}
+2015-12-12 15:56:35 INFO  UserDaoImpl:52 - start deleting user with id =6
+2015-12-12 15:56:35 INFO  UserDaoImpl:66 - finish deleting user with id =6
+2015-12-12 15:56:35 INFO  connections:235 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/SimpleWebApplication]
